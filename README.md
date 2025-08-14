@@ -3,6 +3,8 @@
 
 Este proyecto es un ejemplo básico de cómo configurar un entorno de desarrollo en **TypeScript** y realizar pruebas unitarias con **Mocha** y **Chai**.
 
+Ts Version 5.9.2
+
 ---
 
 ## 1. Creación del proyecto y configuración inicial
